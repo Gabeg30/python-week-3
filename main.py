@@ -111,7 +111,7 @@
 
 name = "Tony Soprano"
 age = 51
-
+print(name)
 # Variables Practice #2
 # Create three variables:
 # first_name
